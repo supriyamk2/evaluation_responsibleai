@@ -8,7 +8,7 @@ import logging
 
 # Groq LLM initialization
 GROQ_LLM = ChatGroq(
-    api_key="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",
+    api_key="",
     model="llama3-70b-8192"
 )
 
