@@ -11,7 +11,7 @@ Developed an advanced content analysis system integrating text and image process
 - Capable of updating datasets with bias and safety flags for further analysis and reporting
 
 
-Technologies used: Python, Crew AI, Groq API (LLaMA LLM), OpenAI API, LangChain, image processing libraries
+Tools used: Python, Crew AI, Groq API (LLaMA LLM), OpenAI API, LangChain, image processing libraries
 <img width="1349" alt="Screen Shot 2024-07-24 at 11 24 15 pm" src="https://github.com/user-attachments/assets/4ec17c89-2124-4ae0-bb58-7c03a4e97f66">
 
 <img width="586" alt="Screen Shot 2024-07-24 at 11 25 33 pm" src="https://github.com/user-attachments/assets/0aa354a0-80f0-4d94-acf7-28a29fd714a4">
